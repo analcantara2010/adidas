@@ -1,0 +1,72 @@
+
+.logotipo{
+    height: 300px;
+}
+main{
+    background-color: black;
+    height: 1500px;
+    color: white;
+}
+.imagens{
+    height: 100px;
+}
+.camisa-centralizada {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    width: 300px; 
+    max-width: 100%;
+}
+.produto-camisa {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.camisa-centralizada {
+    display: block;
+    margin: 0 auto;
+    width: 200px; 
+    max-width: 100%;
+}
+.btn-comprar {
+  background-color: #000;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.btn-comprar:hover {
+  background-color: #1d75bc;
+}
+.newsletter {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.newsletter input {
+  padding: 8px;
+  width: 220px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.newsletter button {
+  padding: 8px 12px;
+  background-color: #000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.redes-sociais {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 10px;
+}
